@@ -1,0 +1,107 @@
+* {
+  margin: 0%;
+  padding: 0%;
+  box-sizing: border-box;
+}
+body {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  background-color: black;
+  color: white;
+}
+h1 {
+  font-size: 50px;
+  margin-top: 20px;
+  margin-bottom: 40px;
+  align-items: center;
+  text-align: center;
+  color: yellow;
+}
+h1:hover {
+  color: rgb(0, 255, 0);
+}
+h2 {
+  font-size: 20px;
+  margin-top: 20px;
+  margin-bottom: 40px;
+  align-items: center;
+  text-align: center;
+  font-family: sans-serif;
+}
+
+h5 {
+  font-size: 15px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  align-items: center;
+  text-align: center;
+  color: yellow;
+}
+h5:hover {
+  color: rgb(0, 255, 0);
+}
+nav {
+  justify-content: space-around;
+  align-items: center;
+  min-height: 8vh;
+}
+.links {
+  justify-content: space-around;
+  display: flex;
+}
+.links li {
+  list-style: none;
+  display: contents;
+}
+.links a {
+  text-decoration: none;
+  color: white;
+  padding: 5px;
+}
+.links a:hover {
+  color: yellow;
+}
+.cal {
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  flex-direction: column;
+}
+#A {
+  border-radius: 15px;
+  border-style: none;
+  padding: 5px;
+}
+#B {
+  border-radius: 15px;
+  border-style: none;
+  padding: 5px;
+}
+#result {
+  border-radius: 15px;
+  border-style: none;
+  padding: 5px;
+}
+.btn {
+  border-radius: 5px;
+  padding: 5px;
+  text-align: center;
+  border-style: none;
+  background-color: yellow;
+  margin-left: -35px;
+}
+.btn:hover {
+  background-color: chartreuse;
+}
+@media screen and (max-width: 640px) {
+  .links {
+    font-size: 13px;
+  }
+}
+p {
+  text-align: center;
+  margin-top: 80px;
+}
+.pfp {
+  text-decoration: none;
+  color: rgb(0, 255, 0);
+}

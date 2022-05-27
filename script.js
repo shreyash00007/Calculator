@@ -1,3 +1,5 @@
+// Functions
+
 function Add(){
     var one = document.getElementById("A").value;
     var two = document.getElementById("B").value;

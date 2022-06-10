@@ -1,3 +1,3 @@
 # Calculator
 
-Check out the [Live Project](https://shreyash00007.github.io/Calculator/)
+Check out the [Live Project Here](https://shreyash00007.github.io/Calculator/)

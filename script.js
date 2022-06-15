@@ -8,6 +8,7 @@ function Add(){
     var sum = Number(one) + Number(two);
     document.getElementById("result").value = sum;
 }
+// subtration
 function Sub(){
     var one = document.getElementById("A").value;
     var two = document.getElementById("B").value;

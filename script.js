@@ -15,6 +15,7 @@ function Sub(){
     var sum = Number(one) - Number(two);
     document.getElementById("result").value = sum;
 }
+// Multiplication
 function Mul(){
     var one = document.getElementById("A").value;
     var two = document.getElementById("B").value;

@@ -1,4 +1,4 @@
-// Functions
+// Operational Functions
 
 // Addition
 

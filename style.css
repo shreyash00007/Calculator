@@ -96,7 +96,11 @@ nav {
   .links {
     font-size: 13px;
   }
+  h1{
+    font-size: 30px;
 }
+}
+
 p {
   text-align: center;
   margin-top: 80px;
